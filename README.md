@@ -1,6 +1,6 @@
 Hey, I'm Abhiraj! 👋
 
-- 🔭 I’m currently working on Improvinf my programming skills.
+- 🔭 I’m currently working on Improving  my programming skills.
 - 🌱 I’m currently learning DSA from Udemy.
 - 👯 I’m looking to collaborate on projects related to JS/React.
 - 💬 Ask me about how to start as a programmer.
